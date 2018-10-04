@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         
         print("welcomt to hyderabad")
         
+        let mapviewcontroller = MapViewController()
+        print(mapviewcontroller)
+        
     }
 
     override func didReceiveMemoryWarning() {
